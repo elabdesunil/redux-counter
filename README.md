@@ -5,6 +5,11 @@
 This is just a practice exercise for react-redux.
 
 
+### Old `Redux` to `reduxjs/toolkit`
+Since this repository was created, there has been updates in the way global states are managed. `Redux` will be replaced by `reduxjs/toolkit`
+
+[Here](https://github.com/elabdesunil/counter-using-Reduxjs-toolkit) is the updated version of this same application:
+
 ## Code Snippets:
 ### Importing `connect` - a function which connects react to the redux store
 ```javascript
